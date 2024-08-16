@@ -32,8 +32,8 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
 1. David Felipe Alvarez Rodriguez.df.alvarezr1.
-2. Daniel Esteban Matabajoy d.matabajoy
-3. Julian Sanchez . j.sanchezf@uniandes.edu.co
+1. Daniel Esteban Matabajoy d.matabajoy
+1. Julian Sanchez . j.sanchezf@uniandes.edu.co
 
 [Back to top](#sample-conflicts)
 
